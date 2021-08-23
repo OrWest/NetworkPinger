@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftAsyncOp",
+        "repositoryURL": "https://github.com/OrWest/SwiftAsyncOp",
+        "state": {
+          "branch": null,
+          "revision": "fc99e28b6978f37d5f65b68d8a3793168aaadc28",
+          "version": "0.1.3"
+        }
+      },
+      {
+        "package": "SwiftyPing",
+        "repositoryURL": "https://github.com/samiyr/SwiftyPing.git",
+        "state": {
+          "branch": null,
+          "revision": "f996a0bea1f4a32db32938d040dae3d79435510a",
+          "version": "1.1.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

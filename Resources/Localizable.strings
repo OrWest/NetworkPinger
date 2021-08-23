@@ -1,0 +1,5 @@
+"networkDiscover.error.noNetworkAddress.title" = "No wifi connection";
+"networkDiscover.error.noNetworkAddress.message" = "Can't get ip address of local network to discover";
+"networkDiscover.emptyState" = "Press {play} button\nto start network discover";
+
+"alert.ok" = "OK";
